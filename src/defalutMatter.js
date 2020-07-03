@@ -1,12 +1,18 @@
-// 오늘 날짜 :
+// 오늘 날짜 : 2020/07/03
 
 // 문제 :
 
-// 알고리즘
-function defaultMatter() {
-  // start
+// 제한사항
+
+// 입출력 예
+
+// 풀이
+function solution() {
+  let answer = "";
+
+  return answer;
 }
 
-// 풀이방법
+// 처음 풀이
 
 // 새로 알게 된 사실
